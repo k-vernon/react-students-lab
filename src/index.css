@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(255, 255, 255);
+  color: #897070;
 }
 
 code {
